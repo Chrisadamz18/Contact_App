@@ -1,0 +1,4 @@
+#Wed Dec 22 16:24:11 GMT 2021
+base.0=C\:\\Users\\honod\\Desktop\\MyApp\\gtl\\contactapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

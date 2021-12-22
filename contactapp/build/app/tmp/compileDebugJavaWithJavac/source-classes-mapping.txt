@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+dev/etornam/awesome_contact_app/BuildConfig.java
+ dev.etornam.awesome_contact_app.BuildConfig
